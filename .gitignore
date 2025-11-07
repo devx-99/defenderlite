@@ -1,0 +1,43 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+publish/
+**/bin/
+**/obj/
+
+# Rider IDE
+.idea/
+
+# User secrets
+secrets.json
+*.pfx
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# PowerShell profile (optional)
+Microsoft.PowerShell_profile.ps1
+
+# OS generated files
+.DS_Store
